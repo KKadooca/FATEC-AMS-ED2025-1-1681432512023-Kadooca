@@ -1,3 +1,13 @@
+
+/*----------------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         Id da Atividade: Atividade B1-4                          */
+/*             Objetivo: Criar calculadora HP12c utilizando sistema de pilha        */
+/*                                                                                  */
+/*                                  Autor: Kauan A. Kadooca Bastos                  */
+/*                                                                  Data:02/04/2025 */
+/*----------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
